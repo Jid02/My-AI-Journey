@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m an Aspiring AI Engineer
 
-I’m currently learning and building projects in:
+This is my path which I took in this journey.
+I’m currently learning and building projects in: 
 
 * Python
 * Machine Learning
